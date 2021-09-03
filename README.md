@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**satyamnathoo/satyamnathoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/satyam-nathoo/">
+  <img align="left" alt="Satyam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+hi, i'm [Satyam Nathoo], a passionate self-taught Data Analyst engineer from india. my passion for data helps me curate great stories and visualize them using some amazing tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  
+  
+- 💼 any freelance work? do reach, [email](mailto:satyamnathoo96@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+
+
+
+
+
+
